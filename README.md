@@ -1,89 +1,51 @@
 <div align="center">
 
-# Hi there, I'm Alejandro Alfonso Gonzalez 👋
+# Hi, I'm Felix Aleman 👋
 
-### 🎓 Computer Science Student @ FIU | 🚀 Aspiring Software Engineer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aalfonsog00.github.io)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alfonso-gonzalez-b91b22303/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroalfonso4427@gmail.com)
+### Regional Safety Manager at Robinson & Morton
+### Learning to code for fun and personal growth
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **Computer Science Student** at Florida International University (GPA: 3.95)
-- 💼 Currently seeking **Software Engineering Internships**
-- 🏆 **Dean's List** recipient and **Phi Theta Kappa** Honor Society member
-- 🌱 Passionate about building clean, efficient code and solving complex problems
-- 🎯 Focused on **data structures**, **algorithms**, and **full-stack development**
+- I work as a **Regional Safety Manager** at **Robinson & Morton**.
+- I am currently entering the coding world **for fun** and to keep learning new skills.
+- I enjoy building practical things step by step and improving with every project.
+- My goal is to combine my professional experience with technology over time.
 
-## 🛠️ Tech Stack
+## What I'm Learning
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Programming fundamentals
+- Git and GitHub workflows
+- Building small apps and tools
+- Problem solving through code
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Current Focus
 
-### Tools & Technologies
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- Practicing consistently, even in short sessions
+- Creating beginner-friendly projects
+- Learning by doing and documenting progress
 
-## 🔥 Currently Working On
+## 2026 Goals
 
-- 🌐 **Personal Portfolio Website** - Responsive web application showcasing my projects and skills
-- 📚 **Data Structures & Algorithms Practice** - Implementing core CS concepts in Java
-- 🛠️ **Building practical projects** that demonstrate real-world software development skills
-- 📖 **Learning**: System Programming, Database Management, and Computer Architecture
+- Build and publish several personal projects
+- Improve code quality and project organization
+- Grow confidence with modern development tools
 
-## 📊 GitHub Stats
+## Let's Connect
 
-<div align="center">
-
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalfonsog00&show_icons=true&theme=react&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsog00&layout=compact&theme=react&hide_border=true)
-
-</div>
-
-## 🎯 Goals for 2025-2026
-
-- 🚀 **Land a Software Engineering Internship** at a tech company
-- 📚 **Master Data Structures & Algorithms** - Complete 100+ LeetCode problems
-- 🛠️ **Build 5+ practical projects** showcasing full-stack capabilities
-- 🤝 **Contribute to open-source projects** in Java/Python ecosystems
-- 🎓 **Maintain academic excellence** while gaining industry experience
-
-## 🌍 Languages
-
-- **English**: Advanced
-- **Spanish**: Native
-
-## 📫 Let's Connect!
-
-I'm always open to discussing:
-- 💼 **Internship opportunities** in software engineering
-- 🤝 **Collaboration** on interesting projects
-- 💡 **Learning resources** and coding tips
-- 🎯 **Career advice** from experienced developers
-
-**Feel free to reach out** - I respond quickly and love connecting with fellow developers!
+- I am open to connecting with people who are also learning to code.
+- I value practical advice, collaboration, and steady progress.
 
 ---
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+"Progress beats perfection."
 
-**Thanks for visiting my profile!**
+Thanks for visiting my profile.
+
+</div>
