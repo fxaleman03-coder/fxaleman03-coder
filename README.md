@@ -2,7 +2,7 @@
 
 # Hi, I'm Felix Aleman 👋
 
-### Regional Safety Manager at Robinson & Morton
+### SPW Senior Safety Manager at Robinson & Morton
 ### Learning to code for fun and personal growth
 
 </div>
