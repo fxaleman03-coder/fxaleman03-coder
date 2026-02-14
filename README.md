@@ -11,7 +11,7 @@
 
 ## About Me
 
-- I work as a **Regional Safety Manager** at **Robinson & Morton**.
+- I work as a **SPW Senior Safety Manager** at **Robinson & Morton**.
 - I am currently entering the coding world **for fun** and to keep learning new skills.
 - I enjoy building practical things step by step and improving with every project.
 - My goal is to combine my professional experience with technology over time.
